@@ -11,6 +11,7 @@ namespace Demo.Controllers
         public ActionResult Index()
         {//Change 1 in Master
             //Changing in Branch1
+            //Changed in Branch2
             return View();
         }
 
